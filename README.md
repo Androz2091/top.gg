@@ -1,5 +1,5 @@
 # Top.gg
-An official module for interacting with the top.gg API
+**THIS IS A FORK OF THE OFFICIAL dblapi.js PACKAGE FOR PEOPLE**
 
 ## Installation
 `npm install top.gg`
